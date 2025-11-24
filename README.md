@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @carcarloslos
-- 👀 I’m interested in robotics
-- TU Braunschweig, Hi-WI at ITL
+👋 Hi, I’m @carcarloslos
+
+🤖 Robotics enthusiast
+
+🎓 TU Braunschweig, Hi-WI at ITL (formerly at IRAS)
